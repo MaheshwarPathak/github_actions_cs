@@ -1,6 +1,7 @@
 name: Using Actions
 
-on: workflow-dispatch:
+on: 
+  workflow_dispatch:
 
 jobs:
     build:
