@@ -1,0 +1,11 @@
+{
+  "name": "on-call-assistant-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "lint": "node lint.mjs",
+    "test": "node test.mjs",
+    "build": "node build.mjs"
+  }
+}
