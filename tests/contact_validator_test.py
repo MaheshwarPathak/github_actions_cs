@@ -76,3 +76,4 @@ def test_normalize_phone_invalid():
     """Test that normalizing an invalid phone raises ValueError."""
     with pytest.raises(ValueError):
         normalize_phone("555-123")
+
