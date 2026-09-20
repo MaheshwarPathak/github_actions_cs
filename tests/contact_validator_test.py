@@ -41,5 +41,5 @@ def test_mask_email_basic():
     result = mask_email(email)
 
     # Assert
-    assert result == "priya@example.com"
+    assert result == "pr***@example.com"
 
